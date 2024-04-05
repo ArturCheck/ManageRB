@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MariLineUA", "MariLineUA\MariLineUA.pyproj", "{03D403FF-247B-4D79-8E66-E8122A71556E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D403FF-247B-4D79-8E66-E8122A71556E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D403FF-247B-4D79-8E66-E8122A71556E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4B73EC-DA0C-42DA-A641-2CC0BBC12F70}
+	EndGlobalSection
+EndGlobal
